@@ -1,6 +1,5 @@
 # SocialMediaPlatform
 
-# SocialMediaPlatform
 SugarMouseTV
 
 ABOUT
